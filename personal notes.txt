@@ -1,0 +1,7 @@
+1) link karo sare ko .js, .css etc
+2) favicon generate karo(online website) or lagao code mein
+3) font download karo ya online direct link se lagao 
+4) psd ka structure or uske andr ke parts dekho ki kitne kitne hai
+5) header or footer lagao
+6) dekho ki ky or konsa structure resuable ho skta hai
+7) pura design hone ke bad ek bar inspect krke check krleneka ki responsive website hai ki nahi
